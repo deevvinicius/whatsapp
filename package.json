@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-api",
+  "name": "whatsapp",
   "version": "1.0.0",
-  "description": "Whatsapp api by Ngekoding",
+  "description": "Whatsapp api by Vinicius.com.ar",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -12,7 +12,7 @@
     "whatsapp-api",
     "node.js"
   ],
-  "author": "Nur Muhammad",
+  "author": "Vinicius Neves",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",
